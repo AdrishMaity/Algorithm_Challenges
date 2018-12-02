@@ -21,4 +21,6 @@ Solve Algorithm Challenges using Python 3
 6: Hamiltonian_and_Lagrangian.py
     https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/hamiltonian-and-lagrangian/
 
+7: Team_Selection.py
+    https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/b-39/
 
