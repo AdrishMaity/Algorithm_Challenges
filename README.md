@@ -38,3 +38,7 @@ Solve Algorithm Challenges using Python 3
 9: Monk_and_Lucky_Minimum.py
 
     https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-lucky-minimum-3/
+
+10: Monk_and_Rotation.py
+
+	https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-rotation-3/
