@@ -6,7 +6,7 @@ Solve Algorithm Challenges using Python 3
 1: Maximize_the_Earning.py
     https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-the-earning-137963bc-323025a6/
     
-2: Monk_and_Welcome_Problem.py  
+2: Monk_and_Welcome_Problem.py
     https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-welcome-problem/
     
 3: Binary_Queries.py
@@ -18,4 +18,7 @@ Solve Algorithm Challenges using Python 3
 5: Memorise_Me.py
     https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/memorise-me/
     
-    
+6: Hamiltonian_and_Lagrangian.py
+    https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/hamiltonian-and-lagrangian/
+
+
