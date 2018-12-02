@@ -35,3 +35,6 @@ Solve Algorithm Challenges using Python 3
 
     https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/speed-7/
 
+9: Monk_and_Lucky_Minimum.py
+
+    https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-lucky-minimum-3/
